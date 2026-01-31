@@ -29,6 +29,7 @@ The DeepSeek-R1 model provides responses comparable to other contemporary large 
 - 🛠️ [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero): A clean and minimal reproduction of DeepSeek R1-Zero, focused on accessibility and simplicity.
 - 🍒 [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio): A desktop client supporting multiple LLM providers, including DeepSeek-R1, for versatile AI interactions.
 - 🧩 [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM): DeepSeek’s comprehensive language model solution, designed to provide accurate and reliable answers.
+- [Awesome DeepSeek V4](https://github.com/deepseek-community/awesome-deepseek-v4) - Unofficial benchmarks, architecture (Engram/mHC), and resources for V4.
 
 ## Articles and Blogs
 
