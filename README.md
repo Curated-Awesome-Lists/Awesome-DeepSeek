@@ -123,6 +123,7 @@ Compare Azure's OpenAI Service with DeepSeek LLM, highlighting intelligent metad
 Read real user reviews, pricing, and features of DeepSeek LLM to gain insights into its performance and capabilities as a leading large language model software.
 - 🆚 [ChatGPT vs. DeepSeek Coder vs. Perplexity Comparison](https://sourceforge.net/software/compare/ChatGPT-vs-DeepSeek-Coder-vs-Perplexity-AI/)
 Side-by-side comparison of ChatGPT, DeepSeek Coder, and Perplexity AI, analyzing their prices, features, and user reviews to determine the most suitable AI coding assistant.
+- 🔌 [FlintAPI](https://flintapi.ai) — Smart routing engine built on DeepSeek V4. Auto-decomposes prompts, dispatches sub-tasks to optimal models, synthesizes results. OpenAI-compatible API with free demo (no signup). [GitHub](https://github.com/moozechen/flintapi)
 - 🔌 [DeepSeek LLM Integrations](https://sourceforge.net/software/product/DeepSeek-LLM/integrations/)
 Explore the available integrations for DeepSeek LLM, including various software platforms and tools, to enhance its functionality and adaptability in different environments.
 - ⚡ [DeepSeek vs. NVIDIA NeMo Megatron Comparison](https://sourceforge.net/software/compare/DeepSeek-LLM-vs-NVIDIA-NeMo-Megatron/)
