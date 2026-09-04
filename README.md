@@ -30,6 +30,8 @@ The DeepSeek-R1 model provides responses comparable to other contemporary large 
 - 🍒 [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio): A desktop client supporting multiple LLM providers, including DeepSeek-R1, for versatile AI interactions.
 - 🧩 [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM): DeepSeek’s comprehensive language model solution, designed to provide accurate and reliable answers.
 
+- 🧩 [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness): Curated list of plugins, skills, tools and resources for DeepSeek Harness, the open-source agent harness where everything is a plugin.
+
 ## Articles and Blogs
 
 - 📰 [DeepSeek-R1 Now Live With NVIDIA NIM | NVIDIA Blog](https://blogs.nvidia.com/blog/deepseek-r1-nim-microservice/)
