@@ -31,6 +31,7 @@ The DeepSeek-R1 model provides responses comparable to other contemporary large 
 - 🧩 [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM): DeepSeek’s comprehensive language model solution, designed to provide accurate and reliable answers.
 
 - 🧩 [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness): Curated list of plugins, skills, tools and resources for DeepSeek Harness, the open-source agent harness where everything is a plugin.
+- 🪟 [ishimuraxxx-ai/deepseek-for-windows](https://github.com/ishimuraxxx-ai/deepseek-for-windows): Unofficial open-source DeepSeek desktop app for Windows 10/11 that opens the official DeepSeek chat in its own window, with 88 interface languages and optional voice input. A single small exe built on Microsoft Edge.
 
 ## Articles and Blogs
 
